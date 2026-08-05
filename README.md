@@ -1,5 +1,5 @@
 # win32
-* Simple graphics API to put stuff on screen.
+* Simple graphics library to put stuff on screen.
 ## USAGE
 ```c
 #define BARDLIB_IMPLEMENTATION
